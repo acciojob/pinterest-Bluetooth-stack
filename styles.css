@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.hero{
+	display:grid;
+	grid-template-rows: 400px;
+	grid-template-columns: 400px 400px;
+	
+}
+
+img{
+	width: 400px;
+/* 	height: 400px; */
+	object-fit: cover;
+}
